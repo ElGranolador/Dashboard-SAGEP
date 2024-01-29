@@ -35,12 +35,12 @@ Este projeto consiste em uma automação para a criação de um dashboard desenv
   - Anaconda: https://docs.anaconda.com/free/anaconda/install/index.html
   - Visual Studio Code: https://code.visualstudio.com/docs/setup/windows
 2. **Criando ambiente no Anaconda:**
-  2.1 **Abrir o terminal ou Anaconda Prompt:** Abra o terminal ou Anaconda Prompt em seu sistema operacional.
-  2.2 **Navegar até o diretório do ambiente virtual:** Use o comando 'cd' para navegar até o diretório onde o ambiente virtual está localizado. Por exemplo, se o ambiente virtual está em sua pasta "Downloads", você usaria o comando:
+  - 2.1 **Abrir o terminal ou Anaconda Prompt:** Abra o terminal ou Anaconda Prompt em seu sistema operacional.
+  - 2.2 **Navegar até o diretório do ambiente virtual:** Use o comando 'cd' para navegar até o diretório onde o ambiente virtual está localizado. Por exemplo, se o ambiente virtual está em sua pasta "Downloads", você usaria o comando:
    'cd Downloads/Consulta-PAE'
-  2.3 **Criano o ambiente virtual:** Uma vez no diretório correto, você pode criar o ambiente virtual usando o comando 'conda env create', seguido do nome do arquivo YAML. Supondo que o arquivo seja Consulta-PAE.yml, o comando seria:
+  - 2.3 **Criando o ambiente virtual:** Uma vez no diretório correto, você pode criar o ambiente virtual usando o comando 'conda env create', seguido do nome do arquivo YAML. Supondo que o arquivo seja Consulta-PAE.yml, o comando seria:
    'conda env create -f Consulta-PAE.yml'
-  2.4 Incie o ambiente virtual.
+  - 2.4 Incie o ambiente virtual.
 3. Inicie o arquivo Automacao_SAGEP_Busca_Processos_Judiciais.py, após ele finalizar sua operação os outros irão iniciar automaticamente, gerando as planilhas necessárias para o dashboard.
 4. **Dados:** Certifique-se de que os dados estejam no formato correto e local adequado.
 5. **Carregamento:** Abra o Power BI e carregue o arquivo `.pbix` deste repositório.
