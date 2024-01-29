@@ -57,7 +57,7 @@ Gostaria de contribuir? Fantástico! Aqui estão os passos:
 
 ## Contato
 
-Adriano Pinheiro - [EMAIL]
-João Gabriel - jgteixeiraramos@gmail.com
+- Adriano Pinheiro - [EMAIL]
+- João Gabriel - jgteixeiraramos@gmail.com
 
    
