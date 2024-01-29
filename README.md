@@ -57,7 +57,10 @@ Gostaria de contribuir? Fantástico! Aqui estão os passos:
 
 ## Contato
 
-- Adriano Pinheiro - [EMAIL]
+- Adriano Pinheiro - adriano.pinheiro@castanhal.ufpa.br
 - João Gabriel - jgteixeiraramos@gmail.com
 
-   
+Agradecimentos:
+
+- A todos que contribuíram para este projeto.
+- Aos desenvolvedores de bibliotecas e ferramentas usadas.
