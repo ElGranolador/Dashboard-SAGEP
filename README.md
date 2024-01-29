@@ -40,7 +40,7 @@ Este projeto consiste em uma automação para a criação de um dashboard desenv
    'cd Downloads/Consulta-PAE'
   - 2.3 **Criando o ambiente virtual:** Uma vez no diretório correto, você pode criar o ambiente virtual usando o comando 'conda env create', seguido do nome do arquivo YAML. Supondo que o arquivo seja Consulta-PAE.yml, o comando seria:
    'conda env create -f Consulta-PAE.yml'
-  - 2.4 Incie o ambiente virtual.
+  - 2.4 Inicie o ambiente virtual.
 3. Inicie o arquivo Automacao_SAGEP_Busca_Processos_Judiciais.py, após ele finalizar sua operação os outros irão iniciar automaticamente, gerando as planilhas necessárias para o dashboard.
 4. **Dados:** Certifique-se de que os dados estejam no formato correto e local adequado.
 5. **Carregamento:** Abra o Power BI e carregue o arquivo `.pbix` deste repositório.
